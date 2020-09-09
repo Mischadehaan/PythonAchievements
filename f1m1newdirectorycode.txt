@@ -1,0 +1,32 @@
+PS C:\Users\misch> md f1m1
+
+
+    Directory: C:\Users\misch
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         8-9-2020     14:27                f1m1
+
+
+PS C:\Users\misch> dir
+
+
+    Directory: C:\Users\misch
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-r---         4-9-2020     00:43                3D Objects
+d-----         7-8-2020     21:09                BrawlhallaReplays
+d-r---         4-9-2020     00:43                Contacts
+d-----         6-8-2020     10:16                Documents
+d-r---         8-9-2020     13:43                Downloads
+d-----         8-9-2020     14:27                f1m1
+d-r---         4-9-2020     00:43                Favorites
+d-r---         4-9-2020     00:43                Links
+d-r---         4-9-2020     00:43                Music
+dar--l         8-9-2020     13:17                OneDrive
+d-r---         4-9-2020     00:43                Saved Games
+d-r---         4-9-2020     00:43                Searches
+d-r---         4-9-2020     00:43                Videos
